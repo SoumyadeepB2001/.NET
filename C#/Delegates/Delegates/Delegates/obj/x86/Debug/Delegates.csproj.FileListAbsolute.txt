@@ -1,0 +1,4 @@
+F:\Course\C#\Delegates\Delegates\Delegates\bin\Debug\Delegates.exe
+F:\Course\C#\Delegates\Delegates\Delegates\bin\Debug\Delegates.pdb
+F:\Course\C#\Delegates\Delegates\Delegates\obj\x86\Debug\Delegates.exe
+F:\Course\C#\Delegates\Delegates\Delegates\obj\x86\Debug\Delegates.pdb

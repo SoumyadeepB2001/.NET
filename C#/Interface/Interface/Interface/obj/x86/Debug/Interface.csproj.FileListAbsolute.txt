@@ -1,0 +1,4 @@
+F:\Course\C#\Interface\Interface\Interface\bin\Debug\Interface.exe
+F:\Course\C#\Interface\Interface\Interface\bin\Debug\Interface.pdb
+F:\Course\C#\Interface\Interface\Interface\obj\x86\Debug\Interface.exe
+F:\Course\C#\Interface\Interface\Interface\obj\x86\Debug\Interface.pdb

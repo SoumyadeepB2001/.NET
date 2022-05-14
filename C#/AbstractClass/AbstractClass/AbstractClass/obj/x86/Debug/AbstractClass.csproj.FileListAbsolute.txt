@@ -1,0 +1,4 @@
+F:\Course\C#\AbstractClass\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe
+F:\Course\C#\AbstractClass\AbstractClass\AbstractClass\bin\Debug\AbstractClass.pdb
+F:\Course\C#\AbstractClass\AbstractClass\AbstractClass\obj\x86\Debug\AbstractClass.exe
+F:\Course\C#\AbstractClass\AbstractClass\AbstractClass\obj\x86\Debug\AbstractClass.pdb

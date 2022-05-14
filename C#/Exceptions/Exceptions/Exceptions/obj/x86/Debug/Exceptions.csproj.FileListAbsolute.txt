@@ -1,0 +1,4 @@
+F:\Course\C#\Exceptions\Exceptions\Exceptions\bin\Debug\Exceptions.exe
+F:\Course\C#\Exceptions\Exceptions\Exceptions\bin\Debug\Exceptions.pdb
+F:\Course\C#\Exceptions\Exceptions\Exceptions\obj\x86\Debug\Exceptions.exe
+F:\Course\C#\Exceptions\Exceptions\Exceptions\obj\x86\Debug\Exceptions.pdb
