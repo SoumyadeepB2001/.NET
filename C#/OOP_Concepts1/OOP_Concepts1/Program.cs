@@ -65,7 +65,7 @@ namespace OOP_Concepts1
             //It is like naming a house before buying land plot for building it. So in the future when you will buy land to build the house you will already have a name for the house/land.
 
              myClass mc1;
-             mc1 = mc;
+             mc1 = mc; //Constructor is not needed as the components are already initialized
              mc1.hello();
 
             Console.ReadKey();
