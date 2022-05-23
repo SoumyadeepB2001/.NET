@@ -35,5 +35,15 @@ namespace WindowsFormsApplication1
         {
             MessageBox.Show("Name:"+txtName.Text+"\nAge: "+txtAge.Text+"\nID Number: "+txtIDNum.Text);
         }
+
+        private void cbRoomNum_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label7_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
