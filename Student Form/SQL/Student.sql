@@ -1,0 +1,7 @@
+CREATE DATABASE testdb1;
+USE testdb1;
+CREATE TABLE student(
+id INT IDENTITY(1,1),
+name VARCHAR (50) NOT NULL,
+roll INT PRIMARY KEY
+);

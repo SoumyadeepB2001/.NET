@@ -1,0 +1,8 @@
+C:\Users\Soumyadeep\Desktop\Student Form\StudentForm\StudentForm\bin\Debug\StudentForm.exe
+C:\Users\Soumyadeep\Desktop\Student Form\StudentForm\StudentForm\bin\Debug\StudentForm.pdb
+C:\Users\Soumyadeep\Desktop\Student Form\StudentForm\StudentForm\obj\x86\Debug\StudentForm.StudentForm.resources
+C:\Users\Soumyadeep\Desktop\Student Form\StudentForm\StudentForm\obj\x86\Debug\StudentForm.Properties.Resources.resources
+C:\Users\Soumyadeep\Desktop\Student Form\StudentForm\StudentForm\obj\x86\Debug\StudentForm.csproj.GenerateResource.Cache
+C:\Users\Soumyadeep\Desktop\Student Form\StudentForm\StudentForm\obj\x86\Debug\StudentForm.exe
+C:\Users\Soumyadeep\Desktop\Student Form\StudentForm\StudentForm\obj\x86\Debug\StudentForm.pdb
+C:\Users\Soumyadeep\Desktop\Student Form\StudentForm\StudentForm\obj\x86\Debug\StudentForm.csprojResolveAssemblyReference.cache
