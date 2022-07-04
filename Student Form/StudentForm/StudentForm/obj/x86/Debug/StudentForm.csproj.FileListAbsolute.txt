@@ -6,3 +6,12 @@ C:\Users\Soumyadeep\Desktop\Student Form\StudentForm\StudentForm\obj\x86\Debug\S
 C:\Users\Soumyadeep\Desktop\Student Form\StudentForm\StudentForm\obj\x86\Debug\StudentForm.exe
 C:\Users\Soumyadeep\Desktop\Student Form\StudentForm\StudentForm\obj\x86\Debug\StudentForm.pdb
 C:\Users\Soumyadeep\Desktop\Student Form\StudentForm\StudentForm\obj\x86\Debug\StudentForm.csprojResolveAssemblyReference.cache
+G:\Course\Student Form\StudentForm\StudentForm\bin\Debug\StudentForm.exe
+G:\Course\Student Form\StudentForm\StudentForm\bin\Debug\StudentForm.pdb
+G:\Course\Student Form\StudentForm\StudentForm\obj\x86\Debug\StudentForm.csproj.AssemblyReference.cache
+G:\Course\Student Form\StudentForm\StudentForm\obj\x86\Debug\StudentForm.StudentForm.resources
+G:\Course\Student Form\StudentForm\StudentForm\obj\x86\Debug\StudentForm.Properties.Resources.resources
+G:\Course\Student Form\StudentForm\StudentForm\obj\x86\Debug\StudentForm.csproj.GenerateResource.cache
+G:\Course\Student Form\StudentForm\StudentForm\obj\x86\Debug\StudentForm.csproj.CoreCompileInputs.cache
+G:\Course\Student Form\StudentForm\StudentForm\obj\x86\Debug\StudentForm.exe
+G:\Course\Student Form\StudentForm\StudentForm\obj\x86\Debug\StudentForm.pdb
